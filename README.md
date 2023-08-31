@@ -2,6 +2,7 @@
 Linux Apps Updater
 
 # Anleitung
+Beim ersten Mal die Eigenschaften aufrufen und der Datei erlauben, ein Programm auzuführen.
 Zum Start die .sh Datei starten und das root Passwort in das Terminal eingeben.
 
 # Kompatibilität
